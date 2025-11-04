@@ -1,7 +1,7 @@
 
   # Shopping cart 
 
-  This is a code bundle for a shopping prototype page . The final  project is available at https://www.figma.com/design/4iv9qFBrF61caiFbx44hb2/Assignment-2](https://enamel-pivot-33339280.figma.site).
+  This is a code bundle for a shopping prototype page . The final  project is available at [https://www.figma.com/design/4iv9qFBrF61caiFbx44hb2/Assignment-2](https://enamel-pivot-33339280.figma.site).](https://enamel-pivot-33339280.figma.site)
 
   ## Running the code
 
