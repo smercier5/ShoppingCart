@@ -33,7 +33,7 @@ https://www.figma.com/design/4iv9qFBrF61caiFbx44hb2/Assignment-2
 ## Running the Project Locally
 
 1. Clone the repository
-  [https://github.com/yourusername/repository-name.git](https://github.com/smercier5/shoppingCart)
+  [https://github.com/snercier5/ShoppingCart.git](https://github.com/smercier5/ShoppingCart)
 2. Navigate into the project folder
 3. Install dependencies
 4. Start the development server
